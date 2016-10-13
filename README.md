@@ -3,6 +3,7 @@ LinkNode D1 / Wemos D1 for Sierra MacOS
 
 Latest driver for devices CH340G CH34G CH34X, Mac OS X Sierra compatible.
 
+Does your screen look like this while plug-in LinkNode D1/Wemos D1?
 <img src=http://osxbook.com/book/bonus/chapter5/panic/images/panic_2.jpg>
 
 
