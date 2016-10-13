@@ -3,6 +3,9 @@ LinkNode D1 / Wemos D1 for Sierra MacOS
 
 Latest driver for devices CH340G CH34G CH34X, Mac OS X Sierra compatible.
 
+(http://osxbook.com/book/bonus/chapter5/panic/images/panic_2.jpg)
+
+
 Kernel panic after connecting a CH340G device (Arduino, etc.), this is the latest driver with full support for Mac OS X Sierra.
 
 Installation:
