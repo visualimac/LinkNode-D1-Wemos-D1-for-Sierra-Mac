@@ -3,7 +3,7 @@ LinkNode D1 / Wemos D1 for Sierra MacOS
 
 Latest driver for devices CH340G CH34G CH34X, Mac OS X Sierra compatible.
 
-With old driver I got kernel panic after connecting a CH340G device (Arduino, etc.), this is the latest driver with full support for Mac OS X Sierra.
+Kernel panic after connecting a CH340G device (Arduino, etc.), this is the latest driver with full support for Mac OS X Sierra.
 
 Installation:
 
@@ -13,7 +13,7 @@ Installation:
 *  Restart your Mac.
 *  Plug in your device, mine is now accessible at /dev/cu.wchusbserial1410
 
-If after installation the device is not recognized /or you cannot install the driver/, please disable System Integrity Protection (I had already disabled, because I had the old driver installed):
+If after installation the device is not recognized /or you cannot install the driver/, please disable System Integrity Protection:
 
 *  Reboot your Mac into Recovery Mode by restarting your computer and holding down Command+R until the Apple logo appears on your screen.
 *  Click Utilities > Terminal.
